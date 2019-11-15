@@ -3,7 +3,12 @@ guid: 7e3787fe33dc89e4489e92ddfa0f43e4
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BowlingLane
+    second: {fileID: 2100000, guid: 0336da21035af8648b1f5a59a2f1abe2, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
